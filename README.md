@@ -8,7 +8,7 @@
 <div align="center"><i>Yes, I like Final Fantasy a lot</i></div>
 
 
-### <div align="center">I'm a Student of the Universidade Federal de Itajubá, Minas Gerais, Brazil. Indie Game Developer, Writer, Gardener and Beekeeper!🌻!</div>
+### <div align="center">I'm a Student of the Federal University de Itajubá, Minas Gerais, Brazil. Indie Game Developer, Writer, Gardener and Beekeeper!🌻!</div>
 
 
 - 🔭 I’m currently working as PO assistant in [ProgramaThor](https://programathor.com.br/), a brazilian company specialized in helping business and developers to find jobs
