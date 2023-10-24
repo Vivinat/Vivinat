@@ -23,7 +23,7 @@
 - ❓ You can Email Me Through [Here](mailto:venat2044@gmail.com)
 
 
-- ⚡ Go to my [itch.io!](https://vivinat-corporation.itch.io/)
+- ⚡ Go to my [itch.io!](https://vivinat.itch.io/)
 
 
 <br/>  
