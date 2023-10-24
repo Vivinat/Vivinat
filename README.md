@@ -1,4 +1,4 @@
-## <div align="center">Vinicius Vieira Mota ( Venat or Vivinat for my homies (/≧▽≦)/ )</div> 
+## <div align="center">Vinicius Vieira Mota)</div> 
 
 <br>
 <div style ="display:flex;" align="center">
