@@ -14,7 +14,7 @@
 - 💪 I was member of the Dev-U extension project for 2 years. The project's primary focus was on Game Jams.
 
 
-- 🌱 I’m currently developing three games, a Web Game in JavaScript and two other games using the Unity Engine;
+- 🌱 I’m currently developing three games, two in the Unity Engine and another one in RPG Maker MV;
 
 
 - ❓ You can Email Me Through [Here](mailto:venat2044@gmail.com)
