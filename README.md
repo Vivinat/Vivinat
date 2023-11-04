@@ -1,4 +1,4 @@
-## <div align="center">Vinicius Vieira Mota)</div> 
+## <div align="center">Vinicius Vieira Mota</div> 
 
 <br>
 <div style ="display:flex;" align="center">
