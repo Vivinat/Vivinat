@@ -11,10 +11,7 @@
 ### <div align="center">I'm a Student of the Federal University de Itajubá, Minas Gerais, Brazil. Indie Game Developer, Writer, Gardener and Beekeeper!🌻!</div>
 
 
-- 🔭 I’m currently working as PO assistant in [ProgramaThor](https://programathor.com.br/), a brazilian company specialized in helping business and developers to find jobs
-
-
-- 💪 I was member of the Dev-U extension project for 3 years. The project's primary focus was on Game Jams.
+- 💪 I was member of the Dev-U extension project for 2 years. The project's primary focus was on Game Jams.
 
 
 - 🌱 I’m currently developing three games, a Web Game in JavaScript and two other games using the Unity Engine;
