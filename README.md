@@ -1,21 +1,13 @@
 ## <div align="center">Vinicius Vieira Mota</div> 
 
-<br>
-<div style ="display:flex;" align="center">
-  <img src="https://github.com/Vivinat/Vivinat/blob/main/Terra-Branford-Final-Fantasy-VI-Final-Fantasy-%D0%98%D0%B3%D1%80%D1%8B-6492614.gif" style="width:350px"/>
-  <img src="https://github.com/Vivinat/Vivinat/blob/main/ashelia-b'nargin-dalmasca-Final-Fantasy-XII-Final-Fantasy-%D0%98%D0%B3%D1%80%D1%8B-6358517.gif" style="width:350px"/>
-</div>
-<div align="center"><i>Yes, I like Final Fantasy a lot</i></div>
-
 
 ### <div align="center">I'm a Student of the Federal University de Itajubá, Minas Gerais, Brazil. Indie Game Developer, Writer, Gardener and Beekeeper!🌻!</div>
 
 
 - 💪 I was member of the Dev-U extension project for 2 years. The project's primary focus was on Game Jams.
-
-
-- 🌱 I’m currently developing three games, two in the Unity Engine and another one in RPG Maker MV;
-
+- 🎮 I’m currently developing three games, two in the Unity Engine and another one in RPG Maker MV;
+- 👾 Back-End development is my favorite thing to do, either in web, databases, games, or other types of algorithms.
+- 🤖 My favorite projects are my simulators.
 
 - ❓ You can Email Me Through [Here](mailto:venat2044@gmail.com)
 
@@ -86,16 +78,14 @@
 </div>  
 <br/>
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
-<img src="https://github.com/Vivinat/Vivinat/blob/main/Y'shtola-Rhul-Final-Fantasy-XIV-Final-Fantasy-6483721.gif" style="height:350px"/>
 
 &#12288;
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vivinat&theme=midnight-purple&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vivinat&theme=midnight-purple&count_private=true&hide=CSS,ShaderLab,HTML,HLSL)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br>
 <div style ="display:flex;" align="center">
-<img src="https://github.com/Vivinat/Vivinat/blob/main/shin_shiros-artist-Pixel-Gif-Pixel-Art-6224084.gif" style="width:350px"/>
 </div>
 </br>
 <div align="center"><i>See you around! ヽ(✿ﾟ▽ﾟ)ノ</i></div>
